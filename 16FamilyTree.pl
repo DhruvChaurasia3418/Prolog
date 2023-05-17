@@ -8,8 +8,8 @@ predicates
     father(person, person)
     mother(person, person)
     parent(person, person)
-    male(person, person)
-    female(person, person)
+    male(person)
+    female(person)
 
 clauses
 
